@@ -8,20 +8,8 @@
             <value value="adb-R52N50LZL9X-VQpA8d._adb-tls-connect._tcp" />
           </Key>
         </key>
-        <name value="samsung SM-T510" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R52N50LZL9X" />
-          </Key>
-        </key>
-        <name value="samsung SM-T510" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
