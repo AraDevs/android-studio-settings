@@ -94,6 +94,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.softsense.flutterintellijpreview">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="io.flutter" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.marketplace">
           <value>
             <PluginData>
