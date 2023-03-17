@@ -3,7 +3,7 @@
     <option name="lastUpdateNotification" value="1.1.1" />
   </component>
   <component name="DiscordApplicationSettings">
-    <option name="show" value="true" />
+    <option name="show" value="false" />
     <option name="idle" value="IDLE" />
     <option name="applicationState" value="CUSTOM" />
     <option name="applicationStateCustom" value="AraDevs" />
